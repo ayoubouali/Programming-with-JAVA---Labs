@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ex3
+comment1.params=arg
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int[][]\ makeMat()
+comment3.params=matrix
+comment3.target=void\ showMat(int[][])
+comment4.params=mat1\ mat2
+comment4.target=int[][]\ multMat(int[][],\ int[][])
+numComments=5

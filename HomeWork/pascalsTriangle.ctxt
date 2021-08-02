@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=pascalsTriangle
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=nRows
+comment2.target=int[][]\ pascalTriangle(int)
+comment3.params=raggedArray
+comment3.target=void\ showPascalTriangle(int[][])
+numComments=4

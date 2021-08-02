@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=GateTerminal
+comment1.params=terminalReference\ terminalType\ terminalOwner
+comment1.target=GateTerminal(java.lang.String,\ boolean,\ LogicGate)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GateTerminal\r\n
+comment2.params=TerminalValue
+comment2.target=void\ setTerminalValue(boolean)
+comment2.text=\r\n\ the\ setter\ method\r\n
+comment3.params=
+comment3.target=boolean\ getTerminalValue()
+comment3.text=\r\n\ the\ getters\ methods\r\n
+comment4.params=
+comment4.target=boolean\ getTerminalType()
+comment5.params=
+comment5.target=java.lang.String\ getTerminalReference()
+comment6.params=
+comment6.target=LogicGate\ getTerminalOwner()
+comment7.params=
+comment7.target=GateTerminal[]\ getTerminalConnections()
+comment8.params=currentConnections\ newConnection
+comment8.target=GateTerminal[]\ addTerminal(GateTerminal[],\ GateTerminal)
+comment8.text=\r\nthe\ addTerminal\ method\r\n
+comment9.params=terminal
+comment9.target=void\ connect(GateTerminal)
+comment9.text=\r\n\ the\ connect\ method\r\n
+numComments=10

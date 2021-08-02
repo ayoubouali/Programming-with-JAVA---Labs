@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=arg
+comment0.target=void\ main(java.lang.String[])
+comment1.params=array
+comment1.target=int\ max(int[])
+comment2.params=array
+comment2.target=int\ min(int[])
+comment3.params=array
+comment3.target=double\ avg(int[])
+numComments=4

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Television
+comment1.params=brand\ size
+comment1.target=Television(java.lang.String,\ int)
+comment10.params=
+comment10.target=int\ getScreenSize()
+comment11.params=
+comment11.target=void\ getState()
+comment2.params=c
+comment2.target=void\ setChannel(int)
+comment3.params=
+comment3.target=void\ togglePowerOnOff()
+comment4.params=
+comment4.target=void\ toggleMuteOnOff()
+comment5.params=
+comment5.target=void\ increaseVolume()
+comment6.params=
+comment6.target=void\ decreaseVolume()
+comment7.params=
+comment7.target=int\ getChannel()
+comment8.params=
+comment8.target=int\ getVolume()
+comment9.params=
+comment9.target=java.lang.String\ getManufacturer()
+numComments=12

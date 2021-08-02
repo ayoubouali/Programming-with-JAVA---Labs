@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Complex
+comment1.params=r\ i
+comment1.target=Complex(double,\ double)
+comment2.params=r
+comment2.target=void\ setReal(double)
+comment3.params=i
+comment3.target=void\ setImg(double)
+comment4.params=m
+comment4.target=void\ setMagnitude(double)
+comment5.params=p
+comment5.target=void\ setPhase(double)
+comment6.params=
+comment6.target=double\ getReal()
+comment7.params=
+comment7.target=double\ getImg()
+comment8.params=
+comment8.target=double\ getMagnitude()
+comment9.params=
+comment9.target=double\ getPhase()
+numComments=10

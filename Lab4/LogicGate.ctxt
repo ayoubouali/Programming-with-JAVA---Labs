@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=LogicGate
+comment1.params=partReference
+comment1.target=LogicGate(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ LogicGate\r\n
+comment2.params=partReference
+comment2.target=void\ setpartReference(java.lang.String)
+comment2.text=\r\n\ Setter\r\n
+comment3.params=
+comment3.target=java.lang.String\ getpartReference()
+comment3.text=\r\n\ Getter\r\n
+comment4.params=
+comment4.target=void\ evaluate()
+comment4.text=\r\n\ evaluate\ methos\r\n
+numComments=5
